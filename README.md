@@ -37,10 +37,10 @@
 
 ![회로 연결도 1](https://post.jigumi.com/post/fire_detect_led_animation/img2.png)
 ![회로 연결도 2](https://post.jigumi.com/post/fire_detect_led_animation/img3.png)
-![회로 연결도 3](https://post.jigumi.com/post/fire_detect_led_animation/img4.png)
-![회로 연결도 4](https://post.jigumi.com/post/fire_detect_led_animation/img5.png)
-![회로 연결도 5](https://post.jigumi.com/post/fire_detect_led_animation/img6.png)
-![회로 연결도 6](https://post.jigumi.com/post/fire_detect_led_animation/img7.png)
+![회로 연결도 3](https://post.jigumi.com/post/fire_detect_led_animation/img4.jpg)
+![회로 연결도 4](https://post.jigumi.com/post/fire_detect_led_animation/img5.jpg)
+![회로 연결도 5](https://post.jigumi.com/post/fire_detect_led_animation/img6.jpg)
+![회로 연결도 6](https://post.jigumi.com/post/fire_detect_led_animation/img7.jpg)
 
 ---
 
